@@ -1,0 +1,9 @@
+{
+"invokeMenuActionHook": "ce.kc",
+"invokeMenuActionHookJunkValue": "14",
+"npcOverheadIconClassName": "hi.bh",
+"setXandYHook": "iz.bj",
+"setViewportWalkingFieldHook": "iz.bw",
+"setSelectedSceneTileX": "iz.bo",
+"setSelectedSceneTileY": "iz.br"
+}
