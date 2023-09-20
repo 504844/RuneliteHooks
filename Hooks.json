@@ -2,7 +2,7 @@
   "invokeMenuActionHook": "bz.ll",
   "invokeMenuActionHookJunkValue": "102",
   "npcOverheadIconClassName": "hi.bh",
-  "setXandYHook": "iv.ba",
+  "setXandYHook": "jt.is",
   "setViewportWalkingFieldHook": "jt.bt",
   "setSelectedSceneTileX": "jt.bo",
   "setSelectedSceneTileY": "jt.bp"
