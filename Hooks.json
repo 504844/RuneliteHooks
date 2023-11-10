@@ -1,9 +1,8 @@
 {
-  "invokeMenuActionHook": "bz.ll",
-  "invokeMenuActionHookJunkValue": "102",
-  "npcOverheadIconClassName": "hi.bh",
-  "setXandYHook": "jt.is",
-  "setViewportWalkingFieldHook": "jt.bt",
-  "setSelectedSceneTileX": "jt.bo",
-  "setSelectedSceneTileY": "jt.bp"
+  "invokeMenuActionHook": "px.kx",
+  "invokeMenuActionHookJunkValue": "22",
+  "setXandYHook": "iv.ba",
+  "setViewportWalkingFieldHook": "kf.bj",
+  "setSelectedSceneTileX": "kf.bp",
+  "setSelectedSceneTileY": "kf.bw"
 }
