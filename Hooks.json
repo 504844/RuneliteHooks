@@ -1,8 +1,9 @@
 {
-  "invokeMenuActionHook": "px.kx",
-  "invokeMenuActionHookJunkValue": "22",
-  "setXandYHook": "iv.ba",
-  "setViewportWalkingFieldHook": "kf.bj",
-  "setSelectedSceneTileX": "kf.bp",
-  "setSelectedSceneTileY": "kf.bw"
+  "invokeMenuActionHook": "ba.lf",
+  "invokeMenuActionHookJunkValue": "75",
+  "setXandYHook": "xx.xx",
+  "setViewportWalkingFieldHook": "kn.bf",
+  "setSelectedSceneTileX": "kn.bc",
+  "setSelectedSceneTileY": "kn.bx",
+  "getNpcOverheadIcon": "ho.bi"
 }
